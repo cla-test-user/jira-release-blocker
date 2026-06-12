@@ -1,3 +1,5 @@
+Testing CLA system. Not a real change. Do not merge.
+
 # Bitbucket Pipe: jira-release-blocker
 [![Atlassian license](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat-square)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md) ![build](https://img.shields.io/bitbucket/pipelines/atlassian/jira-release-blocker) ![version](https://img.shields.io/docker/v/atlassianlabs/jira-release-blocker?sort=semver)
 
